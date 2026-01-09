@@ -1,0 +1,14 @@
+C:\Users\austi\source\repos\SitePing\SitePing\bin\Debug\net8.0\SitePing.exe
+C:\Users\austi\source\repos\SitePing\SitePing\bin\Debug\net8.0\SitePing.deps.json
+C:\Users\austi\source\repos\SitePing\SitePing\bin\Debug\net8.0\SitePing.runtimeconfig.json
+C:\Users\austi\source\repos\SitePing\SitePing\bin\Debug\net8.0\SitePing.dll
+C:\Users\austi\source\repos\SitePing\SitePing\bin\Debug\net8.0\SitePing.pdb
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\SitePing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\SitePing.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\SitePing.AssemblyInfo.cs
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\SitePing.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\SitePing.dll
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\refint\SitePing.dll
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\SitePing.pdb
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\SitePing.genruntimeconfig.cache
+C:\Users\austi\source\repos\SitePing\SitePing\obj\Debug\net8.0\ref\SitePing.dll
